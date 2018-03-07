@@ -1,4 +1,4 @@
-.color-main{
+.color-primary{
   color: #000000;
 }
 .color-secondary{
@@ -7,14 +7,26 @@
 .success{
   color: #ffff00
 }
+.bg-success{
+  background-color: #595959
+}
 .warning{
   color: #ff6600
+}
+.bg-warning{
+  background-color: #595959
 }
 .danger{
   color: #ff0000
 }
+.bg-danger{
+  background-color: #595959
+}
   .info{
     color: #3399ff
+  }
+  .bg-info{
+    background-color: #595959
   }
     .bg-primary{
     background-color: #f2f2f2
