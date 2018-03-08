@@ -1,36 +1,36 @@
 .color-primary{
-  color: #000000;
+  color: #ffffff;
 }
 .color-secondary{
-  color: #ffffff;
+  color: #000000;
 }
 .success{
   color: #ffff00
 }
 .bg-success{
-  background-color: #595959
+  background-color: #3399ff
 }
 .warning{
   color: #ff6600
 }
 .bg-warning{
-  background-color: #595959
+  background-color: #3399ff
 }
 .danger{
   color: #ff0000
 }
 .bg-danger{
-  background-color: #595959
+  background-color: #3399ff
 }
-  .info{
-    color: #3399ff
-  }
-  .bg-info{
-    background-color: #595959
-  }
-    .bg-primary{
-    background-color: #f2f2f2
-    }
-    .bg-secondary{
-      background-color: #000000
-    }
+.info{
+	color: #3399ff
+}
+.bg-info{
+	background-color: #000000
+}
+.bg-primary{
+	background-color: #f2f2f2
+}
+.bg-secondary{
+	background-color: #000000
+}
