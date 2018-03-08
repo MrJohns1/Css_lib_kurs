@@ -1,0 +1,33 @@
+/*
+FLEXBOX
+*/
+.flex-container1 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 20px;
+}
+.flex-container2 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 20px;
+}
+.flex-item{
+  padding: 8px;
+  margin: 16px;
+ }
+.flex-center {
+  justify-content: center;
+}
+.flex-space {
+  display: flex;
+  justify-content: space-around;
+}
+.flex-container3 {
+  display: flex;
+  margin: 10px;
+  text-align: center;
+  font-size: 30px;
+  flex-direction: row;
+}
