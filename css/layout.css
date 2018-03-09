@@ -1,33 +1,43 @@
 /*
 FLEXBOX
 */
-.flex-container1 {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  padding: 20px;
+.navbar{
+	background-color: darkblue
+	color: white;
+	height:100px;
+	border: solid 1px black;
 }
-.flex-container2 {
+.box-150-px-1{
+	height: 150px;
+	width: 150px;
+	border: solid 1px black;
+	margin: 25px;
+}
+.box-50-px-1{
+	height: 50px;
+	width: 50px;
+	margin: 5px;
+	border: solid 1px red;
+}
+.margin-25{
+	margin: 25px;
+}
+.flex-column {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+}
+.flex-row {
+  display: flex;
   flex-direction: row;
-  padding: 20px;
 }
 .flex-item{
   padding: 8px;
   margin: 16px;
- }
+}
 .flex-center {
   justify-content: center;
 }
 .flex-space {
   display: flex;
   justify-content: space-around;
-}
-.flex-container3 {
-  display: flex;
-  margin: 10px;
-  text-align: center;
-  font-size: 30px;
-  flex-direction: row;
 }
