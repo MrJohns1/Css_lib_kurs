@@ -1,27 +1,6 @@
 /*
-FLEXBOX
+Layout
 */
-.navbar{
-	background-color: darkblue
-	color: white;
-	height:100px;
-	border: solid 1px black;
-}
-.box-150-px-1{
-	height: 150px;
-	width: 150px;
-	border: solid 1px black;
-	margin: 25px;
-}
-.box-50-px-1{
-	height: 50px;
-	width: 50px;
-	margin: 5px;
-	border: solid 1px red;
-}
-.margin-25{
-	margin: 25px;
-}
 .flex-column {
   display: flex;
   flex-direction: column;
@@ -34,10 +13,17 @@ FLEXBOX
   padding: 8px;
   margin: 16px;
 }
-.flex-center {
-  justify-content: center;
+.flex-justify-center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
-.flex-space {
-  display: flex;
-  justify-content: space-around;
+.flex-justify-left{
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
+.flex-justfy-space{
+	display: flex;
+	justify-content: space-evenly;
 }
