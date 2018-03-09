@@ -4,33 +4,33 @@
 .color-secondary{
   color: #000000;
 }
-.success{
+.color-success{
   color: #ffff00
 }
-.bg-success{
-  background-color: #3399ff
+.color-bg-success{
+  background-color: #000000
 }
-.warning{
+.color-warning{
   color: #ff6600
 }
-.bg-warning{
-  background-color: #3399ff
+.color-bg-warning{
+  background-color: #000000
 }
-.danger{
+.color-danger{
   color: #ff0000
 }
-.bg-danger{
-  background-color: #3399ff
+.color-bg-danger{
+  background-color: #000000
 }
-.info{
+.color-info{
 	color: #3399ff
 }
-.bg-info{
+.color-bg-info{
 	background-color: #000000
 }
-.bg-primary{
+.color-bg-primary{
 	background-color: #f2f2f2
 }
-.bg-secondary{
+.color-bg-secondary{
 	background-color: #000000
 }
